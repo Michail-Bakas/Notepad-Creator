@@ -1,0 +1,2 @@
+# Notepad-Creator
+This is a Graphical User Interface (GUI) application that creates and saves a .txt file which will be used by a python code.  This python code is used for processing .shp files and produces results according to PROMETHEE II outranking method.  The data in the GUI application are filled in a specific pattern.  There is a help button which helps the user create the appropriate .txt file.
