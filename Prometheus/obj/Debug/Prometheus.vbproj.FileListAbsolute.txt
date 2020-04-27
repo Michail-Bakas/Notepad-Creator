@@ -1,0 +1,24 @@
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\bin\Debug\Prometheus.exe.config
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\bin\Debug\Prometheus.exe
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\bin\Debug\Prometheus.pdb
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\bin\Debug\Prometheus.xml
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\obj\Debug\Prometheus.vbprojResolveAssemblyReference.cache
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\obj\Debug\Prometheus.Form1.resources
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\obj\Debug\Prometheus.Resources.resources
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\obj\Debug\Prometheus.vbproj.GenerateResource.Cache
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\obj\Debug\Prometheus.exe
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\obj\Debug\Prometheus.xml
+c:\users\mixalis\documents\visual studio 2015\Projects\Prometheus\Prometheus\obj\Debug\Prometheus.pdb
+C:\Users\Mixalis\Documents\Visual Studio 2015\Projects\Prometheus\Prometheus\obj\Debug\Prometheus.Help.resources
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\bin\Debug\Prometheus.exe.config
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\obj\Debug\Prometheus.exe
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\obj\Debug\Prometheus.xml
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\obj\Debug\Prometheus.pdb
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\bin\Debug\Prometheus.exe
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\bin\Debug\Prometheus.pdb
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\bin\Debug\Prometheus.xml
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\obj\Debug\Prometheus.vbprojResolveAssemblyReference.cache
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\obj\Debug\Prometheus.Form1.resources
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\obj\Debug\Prometheus.Help.resources
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\obj\Debug\Prometheus.Resources.resources
+C:\Users\Mixalis\Desktop\programata\Prometheus\Prometheus\obj\Debug\Prometheus.vbproj.GenerateResource.Cache
